@@ -5,7 +5,7 @@
 005	"Nenikboz negos / Pondese Nengos / Ktthe Sabe nengos" _("Nanabozho star / Winter Maker star / Bigfoot star")
 008	"Bzheke nengos" _("Bison star")
 #009	"Mdodo Senik nengos" _("Sweat Lodge Stones star")
-010	"Shkenigshek gi Nsogmowat" _("Three Brothers Floating in a Canoe star")
+#010	"Shkenigshek gi Nsogmowat" _("Three Brothers Floating in a Canoe star")
 011	"Mshike nengos" _("Turtle star")
 012	"Mthik nengos" _("Fisher star")
 013	"Mang nengos" _("Loon star")
