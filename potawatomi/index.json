@@ -1,0 +1,93 @@
+{
+  "id": "potawatomi",
+  "region": "Northern America",
+  "classification": ["traditional"],
+  "fallback_to_international_names": false,
+  "constellations": [
+    {
+      "id": "CON potawatomi 001",
+      "lines": [[43813, 42799, 42313, 43109, 43813, 45336, 46390, 49841, 52943, 56343, 57936, 64962]],
+      "common_name": {"english": "Big Snake", "native": "Mshignébêk"}
+    },
+    {
+      "id": "CON potawatomi 002",
+      "lines": [[47908, 48455, 50335, 50583, 49583, 49669], [49583, 43109, 43813, 49669], [43109, 42313, 42799, 43813]],
+      "common_name": {"english": "Underwater panther", "native": "Nambezho"}
+    },
+    {
+      "id": "CON potawatomi 003",
+      "lines": [[32349, 30324], [32349, 33977, 34444, 33579], [34444, 35904], [32349, 33347, 34045, 33160, 33347]],
+      "common_name": {"english": "Wolf", "native": "Mo’ëwé"}
+    },
+    {
+      "id": "CON potawatomi 004",
+      "lines": [[37826, 36850, 32246, 34088, 35550, 37740, 37826]],
+      "common_name": {"english": "Beaver", "native": "Mëk"}
+    },
+    {
+      "id": "CON potawatomi 005",
+      "lines": [[26727, 26311, 25930], [26727, 27366], [25930, 25281, 24436], [26727, 27989, 26207, 25336, 25930], [27989, 28614, 29426, 28716], [25336, 22449, 22549, 22797], [22449, 22509, 22845]],
+      "common_name": {"english": "Nanabozho / Winter Maker / Bigfoot", "native": "Nenikboz / Pondésé / Ktthe Sabé"}
+    },
+    {
+      "id": "CON potawatomi 008",
+      "lines": [[21421, 20894, 20205, 20455, 20889, 25428, 26451, 21421]],
+      "common_name": {"english": "Bison", "native": "Bzhêké"}
+    },
+    {
+      "id": "CON potawatomi 009",
+      "lines": [[17573, 17573], [17847, 17847], [17702, 17702], [17608, 17608], [17499, 17499]],
+      "common_name": {"english": "Sweat Lodge Stones", "native": "Mdodo Senik"}
+    },
+    {
+      "id": "CON potawatomi 010",
+      "lines": [[746, 3179, 4427, 6686, 8886]],
+      "common_name": {"english": "Three Brothers Floating in a Canoe", "native": "Shkenigshêk égi-nsogmowat"}
+    },
+    {
+      "id": "CON potawatomi 011",
+      "lines": [[24608, 23416, 23015, 25428, 28380, 28360, 24608]],
+      "common_name": {"english": "Turtle", "native": "Mshiké"}
+    },
+    {
+      "id": "CON potawatomi 012",
+      "lines": [[67301, 65378, 62956, 59774, 54061, 53910, 58001, 59774], [54061, 46733, 41704, 48319, 53910], [58001, 57399], [48319, 46853], [65378, 68756]],
+      "common_name": {"english": "Fisher", "native": "Wthik"}
+    },
+    {
+      "id": "CON potawatomi 013",
+      "lines": [[11767, 85822, 82080, 77055, 79822, 75097, 72607, 77055]],
+      "common_name": {"english": "Loon", "native": "Mang"}
+    },
+    {
+      "id": "CON potawatomi 014",
+      "lines": [[102098, 100453, 98110, 95947], [104732, 102488, 100453, 97165]],
+      "common_name": {"english": "Crane / Swan / Human skeleton-like creature with wings", "native": "Thethak / Wabzhi / Bgak"}
+    },
+    {
+      "id": "CON potawatomi 015",
+      "lines": [[677, 113881, 113963, 1067, 677], [113963, 112447, 112029, 109427], [113881, 112158, 109352]],
+      "common_name": {"english": "Moose", "native": "Moz"}
+    },
+    {
+      "id": "CON potawatomi 016",
+      "lines": [[101769, 102281, 102532, 101958, 101769, 101421]],
+      "common_name": {"english": "Fish", "native": "Gigo"}
+    },
+    {
+      "id": "CON potawatomi 017",
+      "lines": [[91262, 97649, 102098, 91262]],
+      "common_name": {"english": "Bear Head", "native": "Mko Shtegwan"}
+    },
+    {
+      "id": "CON potawatomi 018",
+      "lines": [[81833, 81693, 83207, 84380, 81833], [84380, 85112, 87808], [81833, 81126, 79992], [83207, 84379], [81693, 80816]],
+      "common_name": {"english": "One Who is Exhausted", "native": "Wénondeshik"}
+    },
+    {
+      "id": "CON potawatomi 019",
+      "lines": [[78159, 77512, 76952, 76267, 75695, 76127]],
+      "common_name": {"english": "Sweat Lodge", "native": "Mdodoswen"}
+    }
+  ]
+}
