@@ -88,6 +88,12 @@
       "id": "CON potawatomi 019",
       "lines": [[78159, 77512, 76952, 76267, 75695, 76127]],
       "common_name": {"english": "Sweat Lodge", "native": "Mdodoswen"}
+    },
+    {
+      "id": "CON potawatomi 020",
+      "lines": [[78401, 80112, 80763, 81266, 82396, 82514, 82729, 84143, 86228, 87073, 86670, 85927, 84970, 80763],
+                [78820, 78401, 78265]],
+      "common_name": {"english": "Nanabozho", "native": "Nenikboz"}
     }
   ]
 }
