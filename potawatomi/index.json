@@ -7,7 +7,16 @@
     {
       "id": "CON potawatomi 001",
       "lines": [[43813, 42799, 42313, 43109, 43813, 45336, 46390, 49841, 52943, 56343, 57936, 64962]],
-      "common_name": {"english": "Big Snake", "native": "Mshignébêk"}
+      "common_name": {"english": "Big Snake", "native": "Mshignébêk"},
+      "image": {
+          "file": "illustrations/snake.png",
+          "size": [1024, 512],
+          "anchors": [
+              { "pos": [806, 371], "hip": 43813 },
+              { "pos": [298, 195], "hip": 49841 },
+              { "pos": [131, 52], "hip": 52943 }
+          ]
+      }
     },
     {
       "id": "CON potawatomi 002",
@@ -65,6 +74,15 @@
     {
       "id": "CON potawatomi 014",
       "lines": [[102098, 100453, 98110, 95947], [104732, 102488, 100453, 97165]],
+      "image": {
+          "file": "illustrations/crane.png",
+          "size": [1024, 512],
+          "anchors": [
+              { "pos": [312, 144], "hip": 104732 },
+              { "pos": [630, 237], "hip": 97165 },
+              { "pos": [493, 435], "hip": 95947 }
+          ]
+      },
       "common_name": {"english": "Crane / Swan / Human skeleton-like creature with wings", "native": "Thethak / Wabzhi / Bgak"}
     },
     {
