@@ -126,6 +126,15 @@
     {
       "id": "CON potawatomi 017",
       "lines": [[91262, 97649, 102098, 91262]],
+      "image": {
+          "file": "illustrations/bear.png",
+          "size": [512, 512],
+          "anchors": [
+              { "pos": [238, 49], "hip": 102098 },
+              { "pos": [416, 189], "hip": 91262 },
+              { "pos": [181, 399], "hip": 97649 }
+          ]
+      },
       "common_name": {"english": "Bear Head", "native": "Mko Shtegwan"}
     },
 
