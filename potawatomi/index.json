@@ -72,6 +72,15 @@
     {
       "id": "CON potawatomi 008",
       "lines": [[21421, 20894, 20205, 20455, 20889, 25428, 26451, 21421]],
+      "image": {
+          "file": "illustrations/bison.png",
+          "size": [1024, 512],
+          "anchors": [
+              { "pos": [294, 217], "hip": 26451 },
+              { "pos": [309, 101], "hip": 25428 },
+              { "pos": [738, 215], "hip": 16369 }
+          ]
+      },
       "common_name": {"english": "Bison", "native": "Bzhêké"}
     },
 
