@@ -34,9 +34,9 @@
           "file": "illustrations/wolf.png",
           "size": [1024, 512],
           "anchors": [
-              { "pos": [685, 211], "hip": 32349 },
-              { "pos": [695, 365], "hip": 30324 },
-              { "pos": [390, 159], "hip": 34444 }
+              { "pos": [622, 242], "hip": 32349 },
+              { "pos": [648, 385], "hip": 30324 },
+              { "pos": [208, 167], "hip": 35904 }
           ]
       },
       "common_name": {"english": "Wolf", "native": "Mo’ëwé"}
@@ -53,9 +53,9 @@
           "file": "illustrations/beaver.png",
           "size": [1024, 512],
           "anchors": [
-              { "pos": [310, 184], "hip": 37826 },
-              { "pos": [333, 128], "hip": 36850 },
-              { "pos": [556, 283], "hip": 31681 }
+              { "pos": [248, 372], "hip": 37826 },
+              { "pos": [219, 281], "hip": 36850 },
+              { "pos": [640, 250], "hip": 31681 }
           ]
       },
       "common_name": {"english": "Beaver", "native": "Mëk"}
@@ -85,9 +85,9 @@
           "file": "illustrations/bison.png",
           "size": [1024, 512],
           "anchors": [
-              { "pos": [294, 217], "hip": 26451 },
-              { "pos": [309, 101], "hip": 25428 },
-              { "pos": [738, 215], "hip": 16369 }
+              { "pos": [306, 357], "hip": 26451 },
+              { "pos": [236, 173], "hip": 25428 },
+              { "pos": [709, 161], "hip": 20205 }
           ]
       },
       "common_name": {"english": "Bison", "native": "Bzhêké"}
@@ -97,6 +97,15 @@
     {
       "id": "CON potawatomi 009",
       "lines": [[17573, 17573], [17847, 17847], [17702, 17702], [17608, 17608], [17499, 17499]],
+      "image": {
+        "file": "illustrations/stones.png",
+        "size": [1024, 512],
+        "anchors": [
+            { "pos": [443, 350], "hip": 17847 },
+            { "pos": [519, 237], "hip": 17608 },
+            { "pos": [448, 181], "hip": 17573 }
+        ]
+      },
       "common_name": {"english": "Sweat Lodge Stones", "native": "Mdodo Senik"}
     },
 
@@ -164,11 +173,11 @@
       "lines": [[91262, 97649, 102098, 91262]],
       "image": {
           "file": "illustrations/bear.png",
-          "size": [512, 512],
+          "size": [1024, 512],
           "anchors": [
-              { "pos": [238, 49], "hip": 102098 },
-              { "pos": [416, 189], "hip": 91262 },
-              { "pos": [181, 399], "hip": 97649 }
+              { "pos": [323, 221], "hip": 102098 },
+              { "pos": [532, 38], "hip": 91262 },
+              { "pos": [617, 461], "hip": 97649 }
           ]
       },
       "common_name": {"english": "Bear Head", "native": "Mko Shtegwan"}
