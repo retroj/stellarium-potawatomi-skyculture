@@ -175,9 +175,9 @@
           "file": "illustrations/bear.png",
           "size": [1024, 512],
           "anchors": [
-              { "pos": [323, 221], "hip": 102098 },
-              { "pos": [532, 38], "hip": 91262 },
-              { "pos": [617, 461], "hip": 97649 }
+              { "pos": [491, 38], "hip": 102098 },
+              { "pos": [700, 222], "hip": 91262 },
+              { "pos": [406, 462], "hip": 97649 }
           ]
       },
       "common_name": {"english": "Bear Head", "native": "Mko Shtegwan"}
