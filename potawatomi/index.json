@@ -12,9 +12,9 @@
           "file": "illustrations/snake.png",
           "size": [1024, 512],
           "anchors": [
-              { "pos": [806, 371], "hip": 43813 },
-              { "pos": [298, 195], "hip": 49841 },
-              { "pos": [131, 52], "hip": 52943 }
+              { "pos": [913, 173], "hip": 43813 },
+              { "pos": [291, 330], "hip": 56343 },
+              { "pos": [62, 111], "hip": 64962 }
           ]
       }
     },
@@ -23,6 +23,15 @@
     {
       "id": "CON potawatomi 002",
       "lines": [[47908, 48455, 50335, 50583, 49583, 49669], [49583, 43109, 43813, 49669], [43109, 42313, 42799, 43813]],
+      "image": {
+          "file": "illustrations/panther.png",
+          "size": [1024, 512],
+          "anchors": [
+              { "pos": [288, 402], "hip": 57632 },
+              { "pos": [626, 161], "hip": 50335 },
+              { "pos": [683, 368], "hip": 49669 }
+          ]
+      },
       "common_name": {"english": "Underwater panther", "native": "Nambezho"}
     },
 
@@ -69,9 +78,9 @@
           "file": "illustrations/bigfoot.png",
           "size": [512, 1024],
           "anchors": [
-              { "pos": [131, 402], "hip": 27989 },
-              { "pos": [351, 711], "hip": 24436 },
-              { "pos": [182, 748], "hip": 27366 }
+              { "pos": [157, 445], "hip": 27989 },
+              { "pos": [343, 728], "hip": 24436 },
+              { "pos": [191, 757], "hip": 27366 }
           ]
       },
       "common_name": {"english": "Winter Maker / Bigfoot / Nanabozho", "native": "Pondésé / Ktthe Sabé / Nenikboz"}
@@ -101,9 +110,9 @@
         "file": "illustrations/stones.png",
         "size": [1024, 512],
         "anchors": [
-            { "pos": [443, 350], "hip": 17847 },
-            { "pos": [519, 237], "hip": 17608 },
-            { "pos": [448, 181], "hip": 17573 }
+            { "pos": [415, 385], "hip": 17847 },
+            { "pos": [487, 415], "hip": 17608 },
+            { "pos": [512, 370], "hip": 17573 }
         ]
       },
       "common_name": {"english": "Sweat Lodge Stones", "native": "Mdodo Senik"}
@@ -120,6 +129,15 @@
     {
       "id": "CON potawatomi 011",
       "lines": [[24608, 23416, 23015, 25428, 28380, 28360, 24608]],
+      "image": {
+          "file": "illustrations/turtle.png",
+          "size": [512, 1024],
+          "anchors": [
+              { "pos": [124, 475], "hip": 28380 },
+              { "pos": [328, 327], "hip": 24608 },
+              { "pos": [342, 635], "hip": 23015 }
+          ]
+      },
       "common_name": {"english": "Turtle", "native": "Mshiké"}
     },
 
@@ -134,6 +152,15 @@
     {
       "id": "CON potawatomi 013",
       "lines": [[11767, 85822, 82080, 77055, 79822, 75097, 72607, 77055]],
+      "image": {
+          "file": "illustrations/loon.png",
+          "size": [1024, 512],
+          "anchors": [
+              { "pos": [345, 348], "hip": 72607 },
+              { "pos": [402, 225], "hip": 79822 },
+              { "pos": [727, 340], "hip": 11767 }
+          ]
+      },
       "common_name": {"english": "Loon", "native": "Mang"}
     },
 
@@ -187,6 +214,15 @@
     {
       "id": "CON potawatomi 018",
       "lines": [[81833, 81693, 83207, 84380, 81833], [84380, 85112, 87808], [81833, 81126, 79992], [83207, 84379], [81693, 80816]],
+      "image": {
+          "file": "illustrations/exhausted.png",
+          "size": [1024, 512],
+          "anchors": [
+              { "pos": [434, 256], "hip": 85112 },
+              { "pos": [462, 50], "hip": 79992 },
+              { "pos": [685, 298], "hip": 80816 }
+          ]
+      },
       "common_name": {"english": "One Who is Exhausted", "native": "Wénondeshik"}
     },
 
@@ -194,6 +230,15 @@
     {
       "id": "CON potawatomi 019",
       "lines": [[78159, 77512, 76952, 76267, 75695, 76127]],
+      "image": {
+          "file": "illustrations/sweatlodge.png",
+          "size": [1024, 512],
+          "anchors": [
+              { "pos": [292, 201], "hip": 78493 },
+              { "pos": [535, 439], "hip": 76952 },
+              { "pos": [680, 128], "hip": 76127 }
+          ]
+      },
       "common_name": {"english": "Sweat Lodge", "native": "Mdodoswen"}
     },
 
