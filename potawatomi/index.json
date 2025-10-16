@@ -9,13 +9,13 @@
       "lines": [[43813, 42799, 42313, 43109, 43813, 45336, 46390, 49841, 52943, 56343, 57936, 64962]],
       "common_name": {"english": "Big Snake", "native": "Mshignébêk"},
       "image": {
-          "file": "illustrations/snake.png",
-          "size": [1024, 512],
-          "anchors": [
-              { "pos": [913, 173], "hip": 43813 },
-              { "pos": [291, 330], "hip": 56343 },
-              { "pos": [62, 111], "hip": 64962 }
-          ]
+        "file": "illustrations/snake.png",
+        "size": [1024, 1024],
+        "anchors": [
+          {"pos": [50, 984], "hip": 64962},
+          {"pos": [213, 327], "hip": 55434},
+          {"pos": [770, 104], "hip": 43813}
+        ]
       }
     },
 
