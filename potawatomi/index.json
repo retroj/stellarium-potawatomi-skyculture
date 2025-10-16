@@ -188,11 +188,11 @@
       "lines": [[102098, 100453, 98110, 95947], [104732, 102488, 100453, 97165]],
       "image": {
           "file": "illustrations/crane.png",
-          "size": [1024, 512],
+          "size": [512, 1024],
           "anchors": [
-              { "pos": [399, 208], "hip": 102488 },
-              { "pos": [630, 237], "hip": 97165 },
-              { "pos": [493, 435], "hip": 95947 }
+              { "pos": [139, 424], "hip": 102488 },
+              { "pos": [359, 412], "hip": 97165 },
+              { "pos": [250, 623], "hip": 95947 }
           ]
       },
       "common_name": {"english": "Crane / Swan / Human skeleton-like creature with wings", "native": "Thethak / Wabzhi / Bgak"}
