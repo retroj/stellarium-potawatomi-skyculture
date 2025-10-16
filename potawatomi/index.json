@@ -122,6 +122,15 @@
     {
       "id": "CON potawatomi 010",
       "lines": [[746, 3179, 4427, 6686, 8886]],
+      "image": {
+        "file": "illustrations/canoe.png",
+        "size": [1024, 512],
+        "anchors": [
+            { "pos": [251, 190], "hip": 8886 },
+            { "pos": [627, 419], "hip": 3179 },
+            { "pos": [748, 275], "hip": 746 }
+        ]
+      },
       "common_name": {"english": "Three Brothers Floating in a Canoe", "native": "Shkenigshêk égi-nsogmowat"}
     },
 
