@@ -209,6 +209,15 @@
     {
       "id": "CON potawatomi 016",
       "lines": [[101769, 102281, 102532, 101958, 101769, 101421]],
+      "image": {
+          "file": "illustrations/fish.png",
+          "size": [1024, 512],
+          "anchors": [
+              { "pos": [331, 111], "hip": 102532 },
+              { "pos": [535, 185], "hip": 101769 },
+              { "pos": [692, 421], "hip": 101421 }
+          ]
+      },
       "common_name": {"english": "Fish", "native": "Gigo"}
     },
 
