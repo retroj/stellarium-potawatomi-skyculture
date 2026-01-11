@@ -202,6 +202,15 @@
     {
       "id": "CON potawatomi 015",
       "lines": [[677, 113881, 113963, 1067, 677], [113963, 112447, 112029, 109427], [113881, 112158, 109352]],
+      "image": {
+          "file": "illustrations/moose.png",
+          "size": [1024, 512],
+          "anchors": [
+              { "pos": [366, 272], "hip": 109427 },
+              { "pos": [630, 88], "hip": 1067 },
+              { "pos": [599, 422], "hip": 109410 }
+          ]
+      },
       "common_name": {"english": "Moose", "native": "Moz"}
     },
 
