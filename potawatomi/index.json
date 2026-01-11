@@ -283,6 +283,15 @@
       "id": "CON potawatomi 020",
       "lines": [[78401, 80112, 80763, 81266, 82396, 82514, 82729, 84143, 86228, 87073, 86670, 85927, 84970, 80763],
                 [78820, 78401, 78265]],
+      "image": {
+          "file": "illustrations/nanabozho.png",
+          "size": [512, 1024],
+          "anchors": [
+              { "pos": [198, 643], "hip": 85927 },
+              { "pos": [305, 647], "hip": 82729 },
+              { "pos": [293, 364], "hip": 78820 }
+          ]
+      },
       "common_name": {"english": "Nanabozho", "native": "Nenikboz"}
     }
   ]
