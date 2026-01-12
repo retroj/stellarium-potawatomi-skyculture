@@ -254,9 +254,9 @@
           "file": "illustrations/exhausted.png",
           "size": [1024, 512],
           "anchors": [
-              { "pos": [434, 256], "hip": 85112 },
-              { "pos": [462, 50], "hip": 79992 },
-              { "pos": [685, 298], "hip": 80816 }
+              { "pos": [415, 267], "hip": 85112 },
+              { "pos": [449, 20], "hip": 79992 },
+              { "pos": [717, 317], "hip": 80816 }
           ]
       },
       "common_name": {"english": "One Who is Exhausted", "native": "Wénondeshik"}
