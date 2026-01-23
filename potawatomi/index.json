@@ -134,6 +134,7 @@
         "english": "Sweat Lodge Stones",
         "native": "Mdodo Senik"
       },
+      "single_star_radius": 0.2,
       "lines": [[17573, 17573],
                 [17847, 17847],
                 [17702, 17702],
