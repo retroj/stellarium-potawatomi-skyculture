@@ -1,4 +1,4 @@
 
 # Potawatomi Skyculture for Stellarium
 
-This is an early draft.
+The Sky Culture is in the potawatomi folder.  Please refer to [description.md](potawatomi/description.md) there for more information.
