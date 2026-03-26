@@ -10,11 +10,14 @@ Potawatomi (also called Bodwéwadmi and Neshnabé among others) people are Indig
 
 This sky culture was developed by the Neshnabé Nengosêk Kenomagéwen (Potawatomi Star Knowledge) Project which is an Indigenous-centered digital humanities effort to sustain and share Potawatomi constellations, celestial stories, and teachings about the movements of the skies. The project’s core purpose is intergenerational: to return star knowledge to everyday use among Potawatomi families, especially youth, while offering non-Native learners a respectful window into a living intellectual tradition. Rooted in Pokagon Band–led star knowledge gatherings (2019) and formalized through the Digital Scholarship Lab incubator at Michigan State University (2023–2024), the project pairs careful cultural protocol with practical technology. By contributing this Potawatomi sky culture that renders Potawatomi constellations, names, narratives, and seasonal practices in place and time we hope to keep the work accessible, sustainable, and accountable (guided by an advisory committee with Potawatomi linguistic and cultural expertise). For the most up-to-date information about the Neshnabé Nengosêk Kenomagéwen (Potawatomi Star Knowledge) Project, please visit: https://www.blairemorseau.com/potawatomi-star-knowledge
 
+Funding for the development of this sky culture has been generously provided by the Michigan State University Digital Humanities Seed Grant: https://digitalhumanities.msu.edu/seed-grant-funding/ 
+
+
 ### Artwork
 
 Constellation artwork by Pokagon Band Potawatomi illustrator, Aaron Martin, aligns the digital renderings with traditional Indigenous Woodland-style visual language, reinforcing meaning through culturally resonant design. Together, these choices make the project not only a technical deliverable but a community stewardship model for celestial knowledge and a decolonial teaching tool that centers Potawatomi ways of seeing the night sky.
 
-Please be aware that the artistic renderings of the constellations are the interpretations by one artist. That is, figures may be interpreted differently from community to community and even from person to person within the same community. Because this traditional knowledge expands tribes, bands, and even international borders, we encourage users of this sky culture to respectfully engage with alternative visions of the Potawatomi sky.
+Please be aware that the artistic renderings of the constellations are the interpretations by one artist. That is, figures may be interpreted differently from community to community and even from person to person within the same community. Because this traditional knowledge spans tribes, bands, and even international borders, we encourage users of this sky culture to respectfully engage with alternative visions of the Potawatomi sky.
 
 ### Licenses and Permissions Justification
 
@@ -177,22 +180,16 @@ This list derives from Daniel Bourassa (1843)[^1] who was educated at Carey Miss
 [^1]: “A Vocabulary of the Po-Da-Wahd-Mih Language for Project 6697 | Smithsonian Digital Volunteers,” accessed February 17, 2026, https://transcription.si.edu/project/6697.
 
 
-## Classification: traditional
-
-Content represents 'common' knowledge by several members of an ethnic community, and the sky culture has been developed by members of such community.
-
-Funding for the development of this sky culture has been generously provided by the Michigan State University Digital Humanities Seed Grant: https://digitalhumanities.msu.edu/seed-grant-funding/ 
-
-
-## Authors
-
-Formatting of Sky Culture files done by John Foerch.
-Illustrations are done by Aaron Martin.
+## Authors and Project Team
 
 Neshnabé Nengosêk Kenomagéwen (Potawatomi Star Knowledge) Project Team:
-Blaire Morseau, PI morseaub@msu.edu 
+
+Blaire Morseau, PI morseaub@msu.edu
+
 John Foerch, Programmmer
+
 Aaron Martin, Artist
+
 Advisory Board: Michael Zimmerman Jr., Bmejwen Kyle Malott, DeJonay Morseau
 
 
