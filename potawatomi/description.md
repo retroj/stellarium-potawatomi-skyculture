@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Potawatomi (also called Bodwéwadmi and Neshnabé among others) people are Indigenous to North America with ancestral homelands that span the north east to just west of the Great Lakes region and currently reside in both the United States and Canada. While there are dozens of individual tribes or bands within the larger Potawatomi nation, the Potawatomi project team members who developed this sky culture are enrolled citizens of the Pokagon Band of Potawatomi, a federally recognized tribe located in southwestern Michigan.
+Potawatomi (also called Bodwéwadmi and Neshnabé among others) people are Indigenous to North America with ancestral homelands that span the north east to just west of the Great Lakes region and currently reside in both the United States and Canada. While there are dozens of individual tribes or bands within the larger Potawatomi nation, the Potawatomi Star Knowledge project team members who developed this sky culture are enrolled citizens of the Pokagon Band of Potawatomi, a federally recognized tribe located in southwestern Michigan.
 
 ## Description
 
@@ -43,7 +43,7 @@ This Label is being used to encourage the sharing of stories and voices about th
 
 ### Curation Decisions
 
-Several Potawatomi constellations can be represented by different figures and names depending on season and story (e.g., Western “Orion” as Ktthe Sabé, Nenikboz, or Bgak). For visual clarity in Stellarium, we selected one stick figure and one artwork per constellation but have documented alternatives in this sky culture description so learners understand the plural nature of the tradition rather than a single fixed mapping. Please see the full list of Potawatomi constellations below.
+Several Potawatomi constellations can be represented by different figures and names depending on season and story (e.g., Western “Orion” as Ktthe Sabé, Nenikboz, or Pondésé). For visual clarity in Stellarium, we selected one stick figure and one artwork per constellation but have documented alternatives in this sky culture description so learners understand the plural nature of the tradition rather than a single fixed mapping. Please see the full list of Potawatomi constellations below.
 
 ## Constellations
 
